@@ -1,7 +1,7 @@
 # "Grumpy Volcano"
 # @course ICS3UC
 # date 2019/05/31
-# @author: Nathaniel Fernandes
+# @author: Henushan Balachandran and Nathaniel Fernandes
 
 import pygame
 import random
